@@ -1,4 +1,4 @@
-### MovieDB
+# MovieDB
 
 The **moviedb** repository offers a comprehensive solution for managing and exploring movie and TV series data. It provides functionalities such as searching for movies or TV series by title, viewing trending content, accessing detailed information about specific titles—including cast, crew, and similar recommendations—and managing user profiles with customizable settings. The application fetches data from The Movie Database (TMDb) API to deliver up-to-date and extensive information on films and TV shows. Additionally, it features user authentication, allowing users to create accounts, log in, and manage their personal collections securely.
 
